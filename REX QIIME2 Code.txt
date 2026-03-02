@@ -1,0 +1,64 @@
+#Common Commands
+cd name_of_directory-> change directory
+cd .. -> go back one directory
+ls -> list everything in this directory
+
+# Get on UBC VPN
+ssh root@10.19.139.127
+root@10.19.139.127's password: Biome2333
+
+#Send table info to server
+scp table.qza root@10.19.139.127:/data/REX
+
+## Feature Table
+
+#Get export file
+qiime tools export \
+--input-path voletable.qza \
+--output-path vole_table_export 
+
+#Covert from biom to txt
+biom convert \
+-i feature-table.biom \
+--to-tsv \
+-o feature-table.txt
+
+#Send feature-table.txt to local computer
+
+scp root@10.19.139.127:/data/REX/koala_table_export/feature-table.txt .
+
+## Tree 
+# Generate a tree for phylogenetic diversity analyses
+qiime phylogeny align-to-tree-mafft-fasttree \
+  --i-sequences bankvole_repseqs.qza \
+  --o-alignment aligned-rep-seqs.qza \
+  --o-masked-alignment masked-aligned-rep-seqs.qza \
+  --o-tree unrooted-tree.qza \
+  --o-rooted-tree vole-tree.qza
+
+qiime tools export \
+--input-path ../REX/vole-tree.qza \
+--output-path vole-rooted-tree_export
+
+#Send tree.nwk to local computer
+scp root@10.19.139.127:/data/REX/Vole/vole-rooted-tree_export/tree.nwk .
+
+## Taxonomy
+
+#Send table info to server
+scp Koala-rep-seqs.qza root@10.19.139.127:/data/REX
+scp Koala-SILVA-138.qza root@10.19.139.127:/data/REX
+
+# Taxonomic analysis
+qiime feature-classifier classify-sklearn \
+  --i-classifier /datasets/classifiers/silva-138-99-515-806-nb-classifier.qza \
+  --i-reads bankvole_repseqs.qza \
+  --o-classification vole-taxonomy.qza
+
+qiime tools export \
+--input-path ../REX/Vole/vole-taxonomy.qza \
+--output-path Vole/vole-taxonomy_export
+
+#Send taxonomy.txt to local computer
+scp root@10.19.139.127:/data/REX/Vole/vole-taxonomy_export/taxonomy.tsv .
+
