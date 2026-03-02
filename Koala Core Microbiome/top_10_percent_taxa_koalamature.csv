@@ -1,0 +1,17 @@
+"Domain","Phylum","Class","Order","Family","Genus","Species"
+"d__Bacteria","p__Desulfobacterota","c__Desulfovibrionia","o__Desulfovibrionales","f__Desulfovibrionaceae","g__uncultured","s__uncultured_Desulfovibrionaceae"
+"d__Bacteria","p__Desulfobacterota","c__Desulfovibrionia","o__Desulfovibrionales","f__Desulfovibrionaceae","g__Desulfovibrio",NA
+"d__Bacteria","p__Desulfobacterota","c__Desulfovibrionia","o__Desulfovibrionales","f__Desulfovibrionaceae","g__Desulfovibrio","s__uncultured_Desulfovibrionaceae"
+"d__Bacteria","p__Desulfobacterota","c__Desulfovibrionia","o__Desulfovibrionales","f__Desulfovibrionaceae","g__Desulfovibrio","s__uncultured_Desulfovibrionaceae"
+"d__Bacteria","p__Firmicutes","c__Clostridia","o__Oscillospirales","f__Oscillospiraceae","g__UCG-005","s__uncultured_rumen"
+"d__Bacteria","p__Firmicutes","c__Clostridia","o__Lachnospirales","f__Lachnospiraceae",NA,NA
+"d__Bacteria","p__Firmicutes","c__Clostridia","o__Lachnospirales","f__Lachnospiraceae","g__Lachnoclostridium",NA
+"d__Bacteria","p__Firmicutes","c__Clostridia","o__Lachnospirales","f__Lachnospiraceae","g__Tyzzerella","s__uncultured_rumen"
+"d__Bacteria","p__Bacteroidota","c__Bacteroidia","o__Bacteroidales","f__Tannerellaceae","g__Parabacteroides",NA
+"d__Bacteria","p__Firmicutes","c__Clostridia","o__Lachnospirales","f__Lachnospiraceae","g__Lachnospiraceae_UCG-004","s__uncultured_Bacteroidetes"
+"d__Bacteria","p__Firmicutes","c__Clostridia","o__Oscillospirales","f__Oscillospiraceae","g__Colidextribacter","s__uncultured_rumen"
+"d__Bacteria","p__Firmicutes","c__Clostridia","o__Oscillospirales","f__Oscillospiraceae","g__Intestinimonas",NA
+"d__Bacteria","p__Firmicutes","c__Negativicutes","o__Acidaminococcales","f__Acidaminococcaceae","g__uncultured","s__uncultured_Firmicutes"
+"d__Bacteria","p__Firmicutes","c__Clostridia","o__Oscillospirales","f__Oscillospiraceae","g__uncultured",NA
+"d__Bacteria","p__Proteobacteria","c__Gammaproteobacteria","o__Pasteurellales","f__Pasteurellaceae","g__Lonepinella","s__Lonepinella_koalarum"
+"d__Bacteria","p__Proteobacteria","c__Gammaproteobacteria","o__Pasteurellales","f__Pasteurellaceae","g__Lonepinella","s__Lonepinella_koalarum"
