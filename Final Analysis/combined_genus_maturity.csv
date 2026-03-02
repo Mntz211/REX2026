@@ -1,0 +1,619 @@
+genus,abundance,maturity,species
+Peptostreptococcus,NA,Immature,uncultured_bacterium
+Peptostreptococcus,NA,Immature,NA
+Clostridium_sensu_stricto_1,NA,Immature,Clostridium_perfringens
+Enterococcus,NA,Immature,NA
+Staphylococcus,NA,Immature,NA
+Gemella,NA,Immature,NA
+Corynebacterium,NA,Immature,NA
+Corynebacterium,NA,Immature,Corynebacterium_sp.
+Cutibacterium,NA,Immature,NA
+Escherichia-Shigella,NA,Immature,NA
+Pseudoxanthomonas,NA,Immature,Pseudoxanthomonas_taiwanensis
+Campylobacter,NA,Immature,NA
+Prevotella,NA,Immature,Gibbons
+Prevotella,0.146793075,Mature,Gibbons
+Erysipelatoclostridiaceae_UCG-004,NA,Immature,Gibbons
+Erysipelatoclostridiaceae_UCG-004,0.113625989,Mature,Gibbons
+Alloprevotella,NA,Immature,Gibbons
+Alloprevotella,0.090844414,Mature,Gibbons
+Prevotellaceae_UCG-001,NA,Immature,Gibbons
+Prevotellaceae_UCG-001,0.073911983,Mature,Gibbons
+Unassigned Prevotellaceae,NA,Immature,Gibbons
+Unassigned Prevotellaceae,0.05621682,Mature,Gibbons
+Rikenellaceae_RC9_gut_group,NA,Immature,Gibbons
+Rikenellaceae_RC9_gut_group,0.054200419,Mature,Gibbons
+Asteroleplasma,NA,Immature,Gibbons
+Asteroleplasma,0.053767825,Mature,Gibbons
+Muribaculaceae,NA,Immature,Gibbons
+Muribaculaceae,0.052794557,Mature,Gibbons
+Lachnospiraceae_NK3A20_group,NA,Immature,Gibbons
+Lachnospiraceae_NK3A20_group,0.045617081,Mature,Gibbons
+Atopobium,NA,Immature,Gibbons
+Atopobium,0.03234932,Mature,Gibbons
+Unassigned Lachnospiraceae,NA,Immature,Gibbons
+Unassigned Lachnospiraceae,0.030625065,Mature,Gibbons
+Uncultured,NA,Immature,Gibbons
+Uncultured,0.02304207,Mature,Gibbons
+Roseburia,NA,Immature,Gibbons
+Roseburia,0.020069936,Mature,Gibbons
+Lachnospira,NA,Immature,Gibbons
+Lachnospira,0.019407397,Mature,Gibbons
+Uncultured Coriobacteriales,NA,Immature,Gibbons
+Uncultured Coriobacteriales,0.015695857,Mature,Gibbons
+Unassigned [Eubacterium]_coprostanoligenes_group,NA,Immature,Gibbons
+Unassigned [Eubacterium]_coprostanoligenes_group,0.013811191,Mature,Gibbons
+Coprococcus,NA,Immature,Gibbons
+Coprococcus,0.013744028,Mature,Gibbons
+Clostridia_UCG-014,NA,Immature,Gibbons
+Clostridia_UCG-014,0.010879588,Mature,Gibbons
+Clostridia_vadinBB60_group,NA,Immature,Gibbons
+Clostridia_vadinBB60_group,0.009642132,Mature,Gibbons
+Ruminococcus,NA,Immature,Gibbons
+Ruminococcus,0.009573479,Mature,Gibbons
+Anaeroplasma,NA,Immature,Gibbons
+Anaeroplasma,0.007942801,Mature,Gibbons
+Succinivibrio,NA,Immature,Gibbons
+Succinivibrio,0.007800533,Mature,Gibbons
+UCG-010,NA,Immature,Gibbons
+UCG-010,0.004653653,Mature,Gibbons
+Gastranaerophilales,NA,Immature,Gibbons
+Gastranaerophilales,0.004516237,Mature,Gibbons
+Solobacterium,NA,Immature,Gibbons
+Solobacterium,0.004252821,Mature,Gibbons
+Uncultured Bacteroidales,NA,Immature,Gibbons
+Uncultured Bacteroidales,0.003967348,Mature,Gibbons
+Unassigned Coriobacteriales,NA,Immature,Gibbons
+Unassigned Coriobacteriales,0.003856621,Mature,Gibbons
+UCG-005,NA,Immature,Gibbons
+UCG-005,0.003745343,Mature,Gibbons
+Lachnospiraceae_NK4A136_group,NA,Immature,Gibbons
+Lachnospiraceae_NK4A136_group,0.003557914,Mature,Gibbons
+Selenomonas,NA,Immature,Gibbons
+Selenomonas,0.003345614,Mature,Gibbons
+Sutterella,NA,Immature,Gibbons
+Sutterella,0.003245806,Mature,Gibbons
+Colidextribacter,NA,Immature,Gibbons
+Colidextribacter,0.002642215,Mature,Gibbons
+Lachnospiraceae,NA,Immature,Gibbons
+Lachnospiraceae,0.002597274,Mature,Gibbons
+RF39,NA,Immature,Gibbons
+RF39,0.002269837,Mature,Gibbons
+Fournierella,NA,Immature,Gibbons
+Fournierella,0.002237413,Mature,Gibbons
+Lachnospiraceae_UCG-001,NA,Immature,Gibbons
+Lachnospiraceae_UCG-001,0.002155581,Mature,Gibbons
+[Eubacterium]_ruminantium_group,NA,Immature,Gibbons
+[Eubacterium]_ruminantium_group,0.002136722,Mature,Gibbons
+Bacteroides,NA,Immature,Gibbons
+Bacteroides,0.002093104,Mature,Gibbons
+Uncultured Ruminococcaceae,NA,Immature,Gibbons
+Uncultured Ruminococcaceae,0.001896521,Mature,Gibbons
+Phoenicibacter,NA,Immature,Gibbons
+Phoenicibacter,0.001832611,Mature,Gibbons
+Prevotellaceae_NK3B31_group,NA,Immature,Gibbons
+Prevotellaceae_NK3B31_group,0.001801676,Mature,Gibbons
+Campylobacter,NA,Immature,Gibbons
+Campylobacter,0.001725027,Mature,Gibbons
+Lachnospiraceae_ND3007_group,NA,Immature,Gibbons
+Lachnospiraceae_ND3007_group,0.001698448,Mature,Gibbons
+UCG-008,NA,Immature,Gibbons
+UCG-008,0.001659683,Mature,Gibbons
+Uncultured Rhodospirillales,NA,Immature,Gibbons
+Uncultured Rhodospirillales,0.001439113,Mature,Gibbons
+Bifidobacterium,NA,Immature,Gibbons
+Bifidobacterium,0.001436686,Mature,Gibbons
+Enterorhabdus,NA,Immature,Gibbons
+Enterorhabdus,0.001406744,Mature,Gibbons
+Prevotellaceae_UCG-003,NA,Immature,Gibbons
+Prevotellaceae_UCG-003,0.00132017,Mature,Gibbons
+NK4A214_group,NA,Immature,Gibbons
+NK4A214_group,0.001307432,Mature,Gibbons
+Unassigned Ruminococcaceae,NA,Immature,Gibbons
+Unassigned Ruminococcaceae,0.001271093,Mature,Gibbons
+UCG-003,NA,Immature,Gibbons
+UCG-003,0.001255102,Mature,Gibbons
+Lachnospiraceae_AC2044_group,NA,Immature,Gibbons
+Lachnospiraceae_AC2044_group,0.001240434,Mature,Gibbons
+Unassigned Selenomonadaceae,NA,Immature,Gibbons
+Unassigned Selenomonadaceae,0.001007952,Mature,Gibbons
+Lachnospiraceae_UCG-003,NA,Immature,Gibbons
+Lachnospiraceae_UCG-003,9.71613e-4,Mature,Gibbons
+[Eubacterium]_eligens_group,NA,Immature,Gibbons
+[Eubacterium]_eligens_group,9.19834e-4,Mature,Gibbons
+UCG-002,NA,Immature,Gibbons
+UCG-002,7.92896e-4,Mature,Gibbons
+Collinsella,NA,Immature,Gibbons
+Collinsella,7.31026e-4,Mature,Gibbons
+Unassigned Bacilli,NA,Immature,Gibbons
+Unassigned Bacilli,6.80681e-4,Mature,Gibbons
+Helicobacter,NA,Immature,Gibbons
+Helicobacter,6.44673e-4,Mature,Gibbons
+Sarcina,NA,Immature,Gibbons
+Sarcina,6.25262e-4,Mature,Gibbons
+Butyrivibrio,NA,Immature,Gibbons
+Butyrivibrio,5.87821e-4,Mature,Gibbons
+Monoglobus,NA,Immature,Gibbons
+Monoglobus,5.85174e-4,Mature,Gibbons
+[Eubacterium]_hallii_group,NA,Immature,Gibbons
+[Eubacterium]_hallii_group,5.34608e-4,Mature,Gibbons
+Unassigned Oscillospiraceae,NA,Immature,Gibbons
+Unassigned Oscillospiraceae,5.14812e-4,Mature,Gibbons
+Catenisphaera,NA,Immature,Gibbons
+Catenisphaera,5.13488e-4,Mature,Gibbons
+Blautia,NA,Immature,Gibbons
+Blautia,4.98655e-4,Mature,Gibbons
+Lachnospiraceae_UCG-008,NA,Immature,Gibbons
+Lachnospiraceae_UCG-008,4.90604e-4,Mature,Gibbons
+Lachnospiraceae_UCG-004,NA,Immature,Gibbons
+Lachnospiraceae_UCG-004,4.5614e-4,Mature,Gibbons
+[Eubacterium]_siraeum_group,NA,Immature,Gibbons
+[Eubacterium]_siraeum_group,4.4649e-4,Mature,Gibbons
+[Eubacterium]_xylanophilum_group,NA,Immature,Gibbons
+[Eubacterium]_xylanophilum_group,4.34965e-4,Mature,Gibbons
+Izemoplasmatales,NA,Immature,Gibbons
+Izemoplasmatales,4.30719e-4,Mature,Gibbons
+Unassigned Erysipelatoclostridiaceae,NA,Immature,Gibbons
+Unassigned Erysipelatoclostridiaceae,4.26804e-4,Mature,Gibbons
+Slackia,NA,Immature,Gibbons
+Slackia,4.23661e-4,Mature,Gibbons
+Oscillospira,NA,Immature,Gibbons
+Oscillospira,4.19139e-4,Mature,Gibbons
+Unassigned Atopobiaceae,NA,Immature,Gibbons
+Unassigned Atopobiaceae,4.09324e-4,Mature,Gibbons
+Oscillibacter,NA,Immature,Gibbons
+Oscillibacter,4.09269e-4,Mature,Gibbons
+Family_XIII_AD3011_group,NA,Immature,Gibbons
+Family_XIII_AD3011_group,3.84234e-4,Mature,Gibbons
+Christensenellaceae_R-7_group,NA,Immature,Gibbons
+Christensenellaceae_R-7_group,3.73316e-4,Mature,Gibbons
+Incertae_Sedis,NA,Immature,Gibbons
+Incertae_Sedis,3.71165e-4,Mature,Gibbons
+Sphaerochaeta,NA,Immature,Gibbons
+Sphaerochaeta,3.65761e-4,Mature,Gibbons
+Clostridium_sensu_stricto_1,NA,Immature,Gibbons
+Clostridium_sensu_stricto_1,3.45414e-4,Mature,Gibbons
+Lachnospiraceae_FCS020_group,NA,Immature,Gibbons
+Lachnospiraceae_FCS020_group,3.31959e-4,Mature,Gibbons
+Anaerosporobacter,NA,Immature,Gibbons
+Anaerosporobacter,2.62038e-4,Mature,Gibbons
+[Eubacterium]_ventriosum_group,NA,Immature,Gibbons
+[Eubacterium]_ventriosum_group,2.3987e-4,Mature,Gibbons
+Microcystis_PCC-7914,NA,Immature,Gibbons
+Microcystis_PCC-7914,2.39705e-4,Mature,Gibbons
+Elusimicrobium,NA,Immature,Gibbons
+Elusimicrobium,2.31213e-4,Mature,Gibbons
+Subdoligranulum,NA,Immature,Gibbons
+Subdoligranulum,2.27574e-4,Mature,Gibbons
+Coriobacteriaceae_UCG-003,NA,Immature,Gibbons
+Coriobacteriaceae_UCG-003,2.16711e-4,Mature,Gibbons
+EMP-G18,NA,Immature,Gibbons
+EMP-G18,1.97466e-4,Mature,Gibbons
+Unassigned Veillonellaceae,NA,Immature,Gibbons
+Unassigned Veillonellaceae,1.94929e-4,Mature,Gibbons
+GCA-900066575,NA,Immature,Gibbons
+GCA-900066575,1.92448e-4,Mature,Gibbons
+Unassigned Acholeplasmataceae,NA,Immature,Gibbons
+Unassigned Acholeplasmataceae,1.8539e-4,Mature,Gibbons
+Neisseria,NA,Immature,Gibbons
+Neisseria,1.82908e-4,Mature,Gibbons
+Oribacterium,NA,Immature,Gibbons
+Oribacterium,1.75133e-4,Mature,Gibbons
+Agathobacter,NA,Immature,Gibbons
+Agathobacter,1.70777e-4,Mature,Gibbons
+Candidatus_Soleaferrea,NA,Immature,Gibbons
+Candidatus_Soleaferrea,1.69067e-4,Mature,Gibbons
+Unassigned Firmicutes,NA,Immature,Gibbons
+Unassigned Firmicutes,1.67413e-4,Mature,Gibbons
+Dorea,NA,Immature,Gibbons
+Dorea,1.65704e-4,Mature,Gibbons
+Uncultured Oscillospiraceae,NA,Immature,Gibbons
+Uncultured Oscillospiraceae,1.63829e-4,Mature,Gibbons
+Acinetobacter,0.00454775506934507,Immature,Hyena
+Acinetobacter,0.00309102816752174,Mature,Hyena
+Alloprevotella,0.0108650929759213,Immature,Hyena
+Alloprevotella,0.0200451981336364,Mature,Hyena
+Anaeroplasma,0.00397792026682105,Immature,Hyena
+Anaeroplasma,0.00316156724247999,Mature,Hyena
+Arthrobacter,0.00834908116413791,Immature,Hyena
+Arthrobacter,0.0038158983269253,Mature,Hyena
+Bacillales_unclass,0.00455321674476862,Immature,Hyena
+Bacillales_unclass,0.00672511866945006,Mature,Hyena
+Bacteroides,0.0196838782264848,Immature,Hyena
+Bacteroides,0.0256207364810682,Mature,Hyena
+Bifidobacterium,0.00255606409822277,Immature,Hyena
+Bifidobacterium,0.00611919096698447,Mature,Hyena
+Blautia,0.00512669266424168,Immature,Hyena
+Blautia,0.00614339265797432,Mature,Hyena
+Cand_Arthromitus,0.00383227558885964,Immature,Hyena
+Cand_Arthromitus,NA,Mature,Hyena
+Carnobacterium,0.00588404498964102,Immature,Hyena
+Carnobacterium,0.0103471083258834,Mature,Hyena
+Cetobacterium,0.00582214600150742,Immature,Hyena
+Cetobacterium,0.00815596986358215,Mature,Hyena
+Christensenellaceae_R-7,0.00183148182536475,Immature,Hyena
+Christensenellaceae_R-7,NA,Mature,Hyena
+Clostridiaceae_1,0.022132529374711,Immature,Hyena
+Clostridiaceae_1,0.0235730373092678,Mature,Hyena
+Clostridiales_XIII,0.0119628897360554,Immature,Hyena
+Clostridiales_XIII,0.0144324718220007,Mature,Hyena
+Clostridiales_unclass,0.0872029303709206,Immature,Hyena
+Clostridiales_unclass,0.0696725363637786,Mature,Hyena
+Clostridium_ss1,0.095402725740148,Immature,Hyena
+Clostridium_ss1,0.0713412724717866,Mature,Hyena
+Clostridium_ss7,0.0164196168816746,Immature,Hyena
+Clostridium_ss7,0.019597171707751,Mature,Hyena
+Collinsella,0.00802684231414829,Immature,Hyena
+Collinsella,0.00450859794586672,Mature,Hyena
+Coprococcus_3,0.00338077708717926,Immature,Hyena
+Coprococcus_3,0.00606872158699342,Mature,Hyena
+Coriobacteriales_unclass,0.017282561598596,Immature,Hyena
+Coriobacteriales_unclass,0.0123419769771084,Mature,Hyena
+Desemzia,0.00826897659125913,Immature,Hyena
+Desemzia,NA,Mature,Hyena
+Eggerthellaceae,0.00178414730502729,Immature,Hyena
+Eggerthellaceae,0.00200608406900079,Mature,Hyena
+Enterococcus,0.0549699425795857,Immature,Hyena
+Enterococcus,0.0423780463509605,Mature,Hyena
+Erysipelotrichaceae,0.0286501287134841,Immature,Hyena
+Erysipelotrichaceae,0.0268650575690346,Mature,Hyena
+Escherichia/Shigella,0.00369209258632178,Immature,Hyena
+Escherichia/Shigella,0.0021498185020747,Mature,Hyena
+Faecalitalea,0.0111654851242167,Immature,Hyena
+Faecalitalea,0.0114730772420579,Mature,Hyena
+Fusobacterium,0.0411282364978281,Immature,Hyena
+Fusobacterium,0.03597640394157,Mature,Hyena
+Hathewaya,0.00764816615144862,Immature,Hyena
+Hathewaya,0.0109491991748994,Mature,Hyena
+Lachnospiraceae,0.118106910475858,Immature,Hyena
+Lachnospiraceae,0.141956199071304,Mature,Hyena
+Lactobacillus,0.0041381294125786,Immature,Hyena
+Lactobacillus,0.0103214309220283,Mature,Hyena
+Lysinibacillus,0.00219377296179376,Immature,Hyena
+Lysinibacillus,NA,Mature,Hyena
+Methanobrevibacter,0.00735869735400031,Immature,Hyena
+Methanobrevibacter,0.00461662012760194,Mature,Hyena
+Methanosphaera,0.00187335467027865,Immature,Hyena
+Methanosphaera,NA,Mature,Hyena
+Micrococcaceae,0.0489038417424929,Immature,Hyena
+Micrococcaceae,0.0506181318478611,Mature,Hyena
+Mogibacterium,0.00285281512956915,Immature,Hyena
+Mogibacterium,0.00279057302815985,Mature,Hyena
+Paeniclostridium,0.0316649735472854,Immature,Hyena
+Paeniclostridium,0.0251343415206867,Mature,Hyena
+Peptoclostridium,0.0606173149675394,Immature,Hyena
+Peptoclostridium,0.0428378784797678,Mature,Hyena
+Peptococcus,0.00652306101419672,Immature,Hyena
+Peptococcus,0.0062806339544412,Mature,Hyena
+Peptoniphilus,0.054685935457561,Immature,Hyena
+Peptoniphilus,0.0557527271911606,Mature,Hyena
+Peptostreptococcaceae,0.00364111694903529,Immature,Hyena
+Peptostreptococcaceae,0.00622927914673102,Mature,Hyena
+Peptostreptococcus,0.00684894098113537,Immature,Hyena
+Peptostreptococcus,0.00925035852444061,Mature,Hyena
+Planococcaceae,0.040090518167353,Immature,Hyena
+Planococcaceae,0.0386078951228575,Mature,Hyena
+Prevotellaceae_UCG-003,0.00513215433966524,Immature,Hyena
+Prevotellaceae_UCG-003,0.00857359660444373,Mature,Hyena
+Romboutsia,0.0038286344719106,Immature,Hyena
+Romboutsia,0.0025801363735773,Mature,Hyena
+Ruminococcaceae,0.00265983593127028,Immature,Hyena
+Ruminococcaceae,0.00392864278982927,Mature,Hyena
+Ruminococcaceae_UCG-005,0.00205176940078138,Immature,Hyena
+Ruminococcaceae_UCG-005,0.00197066696023515,Mature,Hyena
+Ruminococcaceae_UCG-014,0.00487909671170728,Immature,Hyena
+Ruminococcaceae_UCG-014,0.0169889967897342,Mature,Hyena
+Rummeliibacillus,0.00225749250840188,Immature,Hyena
+Rummeliibacillus,NA,Mature,Hyena
+Slackia,0.00890981317428934,Immature,Hyena
+Slackia,0.0106457926098071,Mature,Hyena
+Solibacillus,0.00435659642952072,Immature,Hyena
+Solibacillus,0.00561921944824277,Mature,Hyena
+Sporosarcina,0.00390327736936583,Immature,Hyena
+Sporosarcina,0.00828819373630723,Mature,Hyena
+Streptococcus,0.0182456370316158,Immature,Hyena
+Streptococcus,0.0129735820834291,Mature,Hyena
+Terrisporobacter,0.00511941043034361,Immature,Hyena
+Terrisporobacter,0.00250369444715812,Mature,Hyena
+Tyzzerella_3,0.00211913006433854,Immature,Hyena
+Tyzzerella_3,0.00236350172496077,Mature,Hyena
+Gallicola,NA,Immature,Hyena
+Gallicola,0.00319521349580735,Mature,Hyena
+Holdemanella,NA,Immature,Hyena
+Holdemanella,0.00301458624110256,Mature,Hyena
+Kurthia,NA,Immature,Hyena
+Kurthia,0.0032105609096058,Mature,Hyena
+Mycoplasmataceae,NA,Immature,Hyena
+Mycoplasmataceae,0.00212709252395008,Mature,Hyena
+Olsenella,NA,Immature,Hyena
+Olsenella,0.00202231691051838,Mature,Hyena
+Rikenellaceae_RC9_gut,NA,Immature,Hyena
+Rikenellaceae_RC9_gut,0.00301576681139475,Mature,Hyena
+g__Bacteroides,0.0796574088646285,Immature,Koala
+g__Bacteroides,0.0323313031773079,Mature,Koala
+g__Colidextribacter,0.0277170806861762,Immature,Koala
+g__Colidextribacter,0.044335807545066,Mature,Koala
+g__Desulfovibrio,0.00855980849354328,Immature,Koala
+g__Desulfovibrio,NA,Mature,Koala
+g__Fusobacterium,0.0115715622851558,Immature,Koala
+g__Fusobacterium,NA,Mature,Koala
+g__Gastranaerophilales,0.1330903608969,Immature,Koala
+g__Gastranaerophilales,0.0279357469249142,Mature,Koala
+g__Lachnoclostridium,0.0174062140200618,Immature,Koala
+g__Lachnoclostridium,NA,Mature,Koala
+g__Muribaculaceae,0.345321262020923,Immature,Koala
+g__Muribaculaceae,0.0432462638902828,Mature,Koala
+g__NK4A214_group,0.0078540840077199,Immature,Koala
+g__NK4A214_group,NA,Mature,Koala
+g__Parabacteroides,0.0934587954641464,Immature,Koala
+g__Parabacteroides,0.249510497036434,Mature,Koala
+g__Ruminococcus,0.0232872514019233,Immature,Koala
+g__Ruminococcus,0.0951893528536889,Mature,Koala
+g__Tyzzerella,0.0136638862888997,Immature,Koala
+g__Tyzzerella,0.0102135193652932,Mature,Koala
+g__[Eubacterium]_coprostanoligenes_group,0.0179694683045218,Immature,Koala
+g__[Eubacterium]_coprostanoligenes_group,NA,Mature,Koala
+g__uncultured,0.012288883182718,Immature,Koala
+g__uncultured,0.142904983864587,Mature,Koala
+g__Akkermansia,NA,Immature,Koala
+g__Akkermansia,0.00908397498192527,Mature,Koala
+g__Alistipes,NA,Immature,Koala
+g__Alistipes,0.0477080118245011,Mature,Koala
+g__Cloacibacillus,NA,Immature,Koala
+g__Cloacibacillus,0.0588373812046815,Mature,Koala
+g__Lachnospiraceae_UCG-004,NA,Immature,Koala
+g__Lachnospiraceae_UCG-004,0.0154415907813559,Mature,Koala
+g__Lonepinella,NA,Immature,Koala
+g__Lonepinella,0.0127259460797322,Mature,Koala
+1174-901-12,8.7670989335546e-4,Immature,Warbler
+1174-901-12,6.9096435304802e-4,Mature,Warbler
+Achromobacter,0.00171876053207181,Immature,Warbler
+Achromobacter,NA,Mature,Warbler
+Actinomycetospora,0.00232790980999664,Immature,Warbler
+Actinomycetospora,0.0019693388106895,Mature,Warbler
+Actinoplanes,0.00186998084689852,Immature,Warbler
+Actinoplanes,0.00151050399870986,Mature,Warbler
+Akkermansia,0.00826487088066296,Immature,Warbler
+Akkermansia,0.00868398256855081,Mature,Warbler
+Alcaligenes,0.00309497577678675,Immature,Warbler
+Alcaligenes,7.2962825851158e-4,Mature,Warbler
+Alistipes,0.001744147884196,Immature,Warbler
+Alistipes,0.00150845848269101,Mature,Warbler
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,0.00951356067253377,Immature,Warbler
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,0.00673495280976281,Mature,Warbler
+Amaricoccus,7.8480032001309e-4,Immature,Warbler
+Amaricoccus,9.8867825147099e-4,Mature,Warbler
+Ambiguous_taxa,0.00288481265311517,Immature,Warbler
+Ambiguous_taxa,0.0015801245974945,Mature,Warbler
+Amnibacterium,0.00126465806842429,Immature,Warbler
+Amnibacterium,0.00168411717081027,Mature,Warbler
+Arsenophonus,0.0166407838319213,Immature,Warbler
+Arsenophonus,0.0143433409595771,Mature,Warbler
+Aureimonas,0.014872720326159,Immature,Warbler
+Aureimonas,0.0131404131686669,Mature,Warbler
+Bacillus,0.00332250532104183,Immature,Warbler
+Bacillus,0.00195213455988805,Mature,Warbler
+Bacteroides,0.00467480494419051,Immature,Warbler
+Bacteroides,0.0052539626850393,Mature,Warbler
+Bartonella,0.0176404568133913,Immature,Warbler
+Bartonella,0.00878024966618822,Mature,Warbler
+Blastocatella,7.1231759003532e-4,Immature,Warbler
+Blastocatella,NA,Mature,Warbler
+Blastopirellula,7.108458594774e-4,Immature,Warbler
+Blastopirellula,NA,Mature,Warbler
+Brachybacterium,9.827480800539e-4,Immature,Warbler
+Brachybacterium,9.6020539902995e-4,Mature,Warbler
+Brevibacterium,9.5147380569801e-4,Immature,Warbler
+Brevibacterium,NA,Mature,Warbler
+Candidatus Arthromitus,0.00739419508259499,Immature,Warbler
+Candidatus Arthromitus,0.00807914905072533,Mature,Warbler
+Candidatus Soleaferrea,0.00446633431066054,Immature,Warbler
+Candidatus Soleaferrea,0.00530805927832368,Mature,Warbler
+Candidatus Tremblaya,0.00513148293631439,Immature,Warbler
+Candidatus Tremblaya,0.00134107317632659,Mature,Warbler
+Candidatus Vestibaculum,8.6066803027408e-4,Immature,Warbler
+Candidatus Vestibaculum,0.0012917068388358,Mature,Warbler
+Catellicoccus,0.0141725445132266,Immature,Warbler
+Catellicoccus,0.0152034621819702,Mature,Warbler
+Cellulomonas,0.00155937211264861,Immature,Warbler
+Cellulomonas,0.00157004312568728,Mature,Warbler
+Christensenellaceae R-7 group,7.3093498159306e-4,Immature,Warbler
+Christensenellaceae R-7 group,0.00106449018891984,Mature,Warbler
+Clostridium sensu stricto 1,0.00281586207647642,Immature,Warbler
+Clostridium sensu stricto 1,0.00485472179064472,Mature,Warbler
+Corynebacterium 1,0.00619598564886098,Immature,Warbler
+Corynebacterium 1,0.00520678797185443,Mature,Warbler
+Curtobacterium,0.00205806801220123,Immature,Warbler
+Curtobacterium,0.00175662340826436,Mature,Warbler
+Delftia,0.00208073266279327,Immature,Warbler
+Delftia,8.0821625341459e-4,Mature,Warbler
+Desulfovibrio,0.00427427347285143,Immature,Warbler
+Desulfovibrio,0.00527639030710318,Mature,Warbler
+Devosia,0.00173700999099007,Immature,Warbler
+Devosia,0.00217920510151695,Mature,Warbler
+Dysgonomonas,0.00311212143778656,Immature,Warbler
+Dysgonomonas,0.00213347320766681,Mature,Warbler
+Enterococcus,0.065199209033129,Immature,Warbler
+Enterococcus,0.0722762082196504,Mature,Warbler
+Escherichia-Shigella,0.0141506893144414,Immature,Warbler
+Escherichia-Shigella,0.0162826727808115,Mature,Warbler
+Fimbriiglobus,0.00164789670570775,Immature,Warbler
+Fimbriiglobus,0.00161740047423097,Mature,Warbler
+Friedmanniella,0.00324465077452764,Immature,Warbler
+Friedmanniella,0.0032187655639569902,Mature,Warbler
+Fructobacillus,9.5574182431599e-4,Immature,Warbler
+Fructobacillus,0.00210277220384809,Mature,Warbler
+Gemmata,0.00267163248179984,Immature,Warbler
+Gemmata,0.00268952482114976,Mature,Warbler
+Geodermatophilus,0.00112992113584632,Immature,Warbler
+Geodermatophilus,0.00102664814257101,Mature,Warbler
+Gilliamella,0.00874237386018148,Immature,Warbler
+Gilliamella,0.00332708659527694,Mature,Warbler
+Gordonia,0.00790142701938357,Immature,Warbler
+Gordonia,0.00547328948745395,Mature,Warbler
+Incertae Sedis,0.00113705902905226,Immature,Warbler
+Incertae Sedis,0.00276654215196686,Mature,Warbler
+Kineococcus,7.1974982935284e-4,Immature,Warbler
+Kineococcus,0.00164506973109318,Mature,Warbler
+Kineosporia,6.5205022368832e-4,Immature,Warbler
+Kineosporia,NA,Mature,Warbler
+Kocuria,0.00678600242953281,Immature,Warbler
+Kocuria,0.00578216240630121,Mature,Warbler
+Lachnoclostridium,0.00456677992123887,Immature,Warbler
+Lachnoclostridium,0.00475777894217965,Mature,Warbler
+Lachnospiraceae UCG-007,7.204121081039e-4,Immature,Warbler
+Lachnospiraceae UCG-007,0.00155331372681878,Mature,Warbler
+Lactobacillus,0.0203117213625517,Immature,Warbler
+Lactobacillus,0.00904125385748707,Mature,Warbler
+Lactococcus,0.105383266600164,Immature,Warbler
+Lactococcus,0.115939409623897,Mature,Warbler
+Leifsonia,8.6044727069039e-4,Immature,Warbler
+Leifsonia,0.00214939901095648,Mature,Warbler
+Leucobacter,7.0834391752892e-4,Immature,Warbler
+Leucobacter,8.6472363343549e-4,Mature,Warbler
+Lysobacter,0.00120630395180259,Immature,Warbler
+Lysobacter,6.8997812211036e-4,Mature,Warbler
+Marmoricola,0.00152051842591941,Immature,Warbler
+Marmoricola,0.00182956797057964,Mature,Warbler
+Methylobacterium,0.0145772704166558,Immature,Warbler
+Methylobacterium,0.0132474374889391,Mature,Warbler
+Microbacterium,0.00575431930842792,Immature,Warbler
+Microbacterium,0.006609646690072,Mature,Warbler
+Microlunatus,9.6207026571506e-4,Immature,Warbler
+Microlunatus,9.0408155326258e-4,Mature,Warbler
+Morganella,0.00774328957093462,Immature,Warbler
+Morganella,0.00509052230242553,Mature,Warbler
+Mycobacterium,0.00711184357505723,Immature,Warbler
+Mycobacterium,0.00722892666478065,Mature,Warbler
+Nakamurella,9.8377829144444e-4,Immature,Warbler
+Nakamurella,8.7438504391741e-4,Mature,Warbler
+Nocardia,6.7706964317303e-4,Immature,Warbler
+Nocardia,NA,Mature,Warbler
+Nocardioides,0.00388691399000577,Immature,Warbler
+Nocardioides,0.00342802915810031,Mature,Warbler
+Ochrobactrum,0.00444197716992689,Immature,Warbler
+Ochrobactrum,0.00750494348257503,Mature,Warbler
+Paenibacillus,7.7714732111188e-4,Immature,Warbler
+Paenibacillus,NA,Mature,Warbler
+Paeniclostridium,0.011051960624732,Immature,Warbler
+Paeniclostridium,NA,Mature,Warbler
+Pantoea,0.0496522889383848,Immature,Warbler
+Pantoea,0.0286574054711344,Mature,Warbler
+Parabacteroides,0.0156905609971975,Immature,Warbler
+Parabacteroides,0.0157804438075747,Mature,Warbler
+Paraclostridium,8.7715141252283e-4,Immature,Warbler
+Paraclostridium,NA,Mature,Warbler
+Paracoccus,0.00765859147732608,Immature,Warbler
+Paracoccus,0.00668481940376495,Mature,Warbler
+Pararhodospirillum,0.00527872957863471,Immature,Warbler
+Pararhodospirillum,0.0124432209498828,Mature,Warbler
+Pelagibacterium,0.00137584731207546,Immature,Warbler
+Pelagibacterium,7.2089828835968e-4,Mature,Warbler
+Phascolarctobacterium,0.00162479053594834,Immature,Warbler
+Phascolarctobacterium,0.00159258032896646,Mature,Warbler
+Pir4 lineage,0.00163634362082805,Immature,Warbler
+Pir4 lineage,0.00209703745358094,Mature,Warbler
+Pirellula,9.6626469780514e-4,Immature,Warbler
+Pirellula,NA,Mature,Warbler
+Pragia,0.00136664899608843,Immature,Warbler
+Pragia,0.00351753874746114,Mature,Warbler
+Proteus,0.00218831616657753,Immature,Warbler
+Proteus,0.00392182037775932,Mature,Warbler
+Providencia,0.00355025562488061,Immature,Warbler
+Providencia,0.00970734327466294,Mature,Warbler
+Pseudomonas,0.00314494102922827,Immature,Warbler
+Pseudomonas,0.00390790356341675,Mature,Warbler
+Pseudonocardia,0.00634727955021559,Immature,Warbler
+Pseudonocardia,0.0072835894276774,Mature,Warbler
+Psychrobacter,7.5529212232671e-4,Immature,Warbler
+Psychrobacter,7.965275904497e-4,Mature,Warbler
+Quadrisphaera,0.00198278899416341,Immature,Warbler
+Quadrisphaera,0.00260474548758253,Mature,Warbler
+Rhodococcus,0.00351662658163204,Immature,Warbler
+Rhodococcus,0.00176801985465513,Mature,Warbler
+Rickettsia,8.6729081778474e-4,Immature,Warbler
+Rickettsia,0.00102505921494922,Mature,Warbler
+Rickettsiella,0.00594255364678643,Immature,Warbler
+Rickettsiella,0.01926496208216,Mature,Warbler
+Rikenella,9.962880011868e-4,Immature,Warbler
+Rikenella,8.088372136346e-4,Mature,Warbler
+Robinsoniella,9.1887497383998e-4,Immature,Warbler
+Robinsoniella,0.00187398488984622,Mature,Warbler
+Romboutsia,9.534606419512e-4,Immature,Warbler
+Romboutsia,0.00156167842625303,Mature,Warbler
+Roseomonas,0.00175658400741046,Immature,Warbler
+Roseomonas,0.00146561222751033,Mature,Warbler
+Rothia,0.00186092970396729,Immature,Warbler
+Rothia,0.00153578073237144,Mature,Warbler
+Rubellimicrobium,0.00100592783634121,Immature,Warbler
+Rubellimicrobium,NA,Mature,Warbler
+Rubrobacter,0.00120358125027043,Immature,Warbler
+Rubrobacter,0.00171801429340845,Mature,Warbler
+Ruminiclostridium 5,8.5375089665184e-4,Immature,Warbler
+Ruminiclostridium 5,0.00112795597611203,Mature,Warbler
+Serratia,0.0160741675671205,Immature,Warbler
+Serratia,0.0189884886759685,Mature,Warbler
+Singulisphaera,0.00161824133496558,Immature,Warbler
+Singulisphaera,0.00121638801685578,Mature,Warbler
+Solirubrobacter,6.582314920316e-4,Immature,Warbler
+Solirubrobacter,NA,Mature,Warbler
+Sphingomonas,0.00248626801802929,Immature,Warbler
+Sphingomonas,0.004245724186638,Mature,Warbler
+Staphylococcus,0.0082135810707193,Immature,Warbler
+Staphylococcus,0.00366397577816817,Mature,Warbler
+Stenotrophomonas,0.00718925660240404,Immature,Warbler
+Stenotrophomonas,0.00895777123496751,Mature,Warbler
+Streptomyces,0.00289908843952703,Immature,Warbler
+Streptomyces,9.6864315260773e-4,Mature,Warbler
+Tsukamurella,0.00251011005306766,Immature,Warbler
+Tsukamurella,0.00110724512642111,Mature,Warbler
+Tyzzerella 3,8.0231391365239e-4,Immature,Warbler
+Tyzzerella 3,7.1465215908781e-4,Mature,Warbler
+Weissella,7.8928909821476e-4,Immature,Warbler
+Weissella,NA,Mature,Warbler
+Williamsia,0.00273241495384211,Immature,Warbler
+Williamsia,0.0014975186246973,Mature,Warbler
+Xanthomonas,0.00140403095225971,Immature,Warbler
+Xanthomonas,NA,Mature,Warbler
+endosymbionts6,0.0225449988976738,Immature,Warbler
+endosymbionts6,0.00231895767809093,Mature,Warbler
+metagenome,0.00111159809040017,Immature,Warbler
+metagenome,0.00117834507161224,Mature,Warbler
+uncultured,0.0457106265716243,Immature,Warbler
+uncultured,0.0458992426294305,Mature,Warbler
+uncultured Chloroflexi bacterium,0.00101306572954714,Immature,Warbler
+uncultured Chloroflexi bacterium,NA,Mature,Warbler
+uncultured bacterium,0.0169682438810594,Immature,Warbler
+uncultured bacterium,0.0158994307438501,Mature,Warbler
+uncultured soil bacterium,0.00447950629915396,Immature,Warbler
+uncultured soil bacterium,0.00434144337819893,Mature,Warbler
+Candidatus Xiphinematobacter,NA,Immature,Warbler
+Candidatus Xiphinematobacter,0.00115840129042839,Mature,Warbler
+Cellulosilyticum,NA,Immature,Warbler
+Cellulosilyticum,0.00187376572741563,Mature,Warbler
+Chryseobacterium,NA,Immature,Warbler
+Chryseobacterium,0.00194517615271676,Mature,Warbler
+Deinococcus,NA,Immature,Warbler
+Deinococcus,0.00157992369859979,Mature,Warbler
+GCA-900066225,NA,Immature,Warbler
+GCA-900066225,8.6591076326786e-4,Mature,Warbler
+Jatrophihabitans,NA,Immature,Warbler
+Jatrophihabitans,7.2904382536333e-4,Mature,Warbler
+Leuconostoc,NA,Immature,Warbler
+Leuconostoc,0.00198995834270101,Mature,Warbler
+Mesorhizobium,NA,Immature,Warbler
+Mesorhizobium,0.00114404615122463,Mature,Warbler
+Pectobacterium,NA,Immature,Warbler
+Pectobacterium,0.00101061275806604,Mature,Warbler
+Planctomicrobium,NA,Immature,Warbler
+Planctomicrobium,7.0248864418997e-4,Mature,Warbler
+Pseudokineococcus,NA,Immature,Warbler
+Pseudokineococcus,7.3775553197936e-4,Mature,Warbler
+SH-PL14,NA,Immature,Warbler
+SH-PL14,7.7828231810294e-4,Mature,Warbler
+Vulcaniibacterium,NA,Immature,Warbler
+Vulcaniibacterium,8.5582929146064e-4,Mature,Warbler
+Wolbachia,NA,Immature,Warbler
+Wolbachia,9.4681822722797e-4,Mature,Warbler
+[Eubacterium] brachy group,NA,Immature,Warbler
+[Eubacterium] brachy group,6.9695479281753e-4,Mature,Warbler
